@@ -1,0 +1,4 @@
+b967b8055469c98d31c64ae26c6572461dcf2579
+
+username = PETSHOP1
+password = petshop123
